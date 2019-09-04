@@ -1,2 +1,2 @@
-# Content-Addressable-Memory
-Content-addressable memory (CAM) is a special type of computer memory used in certain very-high-speed searching applications.
+# Content Addressable Memory
+This repo contains implementation of CAM using Finite State Machine in VHDL, which is demnstrated on FPGA. CAM is a special type of computer memory which is useful for searching all (key,value) pairs parallely for a supplied key. CAM is used in certain very-high-speed searching applications.
